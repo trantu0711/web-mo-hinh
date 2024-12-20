@@ -6,6 +6,7 @@
           font-size: 20px;
           text-align: center;
       }
+      /* a */
    </style>
    <div class="bg_in">
       <?php
